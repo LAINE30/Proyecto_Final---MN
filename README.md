@@ -30,7 +30,7 @@ Realice una interfraz gráfica que muestre la orientación del espejo secundario
 * En caso de no existir solución, establecer $x_1$ y $x_2$ para que se acerque lo más posible sin quebrantar los límites físicos.
 
 # Integrantes
-Mateo Coronado
-Edison Quizhpe
-Nicole Sani
-Liam Zúñiga
+* Mateo Coronado
+* Edison Quizhpe
+* Nicole Sani
+* Liam Zúñiga
